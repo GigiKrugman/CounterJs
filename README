@@ -1,0 +1,5 @@
+This is a progect with basic Javscript, HTML and CSS:
+
+The aim is to create a counter, which initially displays the number "0" and thanks to the other two buttons "+" and "-", you can increment or decrement the value.
+
+There is as well the possibility to restart the counting, by pressing the button in the middle.
