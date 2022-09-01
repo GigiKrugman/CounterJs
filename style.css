@@ -35,13 +35,13 @@ h1 {
 .buttons {
   margin: auto;
   text-align: center;
-  padding: 200px;
-  padding-block: 30px;
+  /* padding: 200px;
+  padding-block: 30px; */
 }
 
 .buttons button {
-  width: 130px;
-  padding: 14px 40px;
+  width: 100px;
+  padding: 12px 35px;
   padding-right: 3cm;
   font-size: 30px;
   font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
